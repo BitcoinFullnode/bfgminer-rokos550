@@ -8,9 +8,11 @@ Dependencies are additional software, or libraries the program needs in order to
 
 So lets start: In the ROKOS desktop, double click on terminal shortcut and type in the following:
 
-1) sudo apt-get update
+sudo apt-get update
 
-2) sudo apt-get install autoconf autogen libtool uthash-dev libjansson-dev libcurl4-openssl-dev libusb-dev libncurses-dev git-core –y
+sudo apt-get install autoconf autogen libtool uthash-dev libjansson-dev libcurl4-openssl-dev libusb-dev libncurses-dev git-core –y
+
+sudo apt-get install pkg-config libgcrypt20-dev
 
 This process will take a few minutes to complete.
 
