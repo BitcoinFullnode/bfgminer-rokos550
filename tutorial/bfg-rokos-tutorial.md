@@ -24,11 +24,11 @@ git clone https://github.com/BitcoinFullnode/bfgminer-rokos550
 
 cd bfgminer-rokos550
 
-./autogen.sh
+sudo ./autogen.sh
 
-./configure
+sudo ./configure
 
-make
+sudo make
 
 ## Start Mining Bitcoin
 
